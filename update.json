@@ -1,0 +1,16 @@
+{
+  "version": "1.0",
+  "notification": "NO UPDATE.",
+  "update": [
+    {
+      "name": "GAME",
+      "link": "https://github.com/hamsterxt309/nso_dctk_game/refs/heads/main/Assembly-CSharp.dll",
+      "path": "NinjaSchool_CLTX_24H_Data\\Managed\\"
+    },
+    {
+      "name": "QLTK_DCTK_NSO",
+      "link": "https://github.com/hamsterxt309/nso_dctk_game/refs/heads/main/QLTK_DCTK_NSO.exe",
+      "path": ""
+    }
+  ]
+}
