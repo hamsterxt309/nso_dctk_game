@@ -5,7 +5,7 @@
     {
       "name": "GAME",
       "link": "https://raw.githubusercontent.com/hamsterxt309/nso_dctk_game/refs/heads/main/Assembly-CSharp.dll",
-      "path": "NinjaSchool_CLTX_24H_Data\\Managed\\"
+      "path": "GAME_DCTK_NSO_Data\\Managed\\"
     },
     {
       "name": "QLTK_DCTK_NSO",
