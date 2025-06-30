@@ -1,6 +1,6 @@
 {
-  "version": "1.4",
-  "notification": "Chơi, chat server khác.",
+  "version": "1.5",
+  "notification": "Fix giao dịch bot phụ.",
   "update": [
     {
       "name": "GAME",
