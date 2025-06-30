@@ -1,6 +1,6 @@
 {
-  "version": "1.3",
-  "notification": "Thêm chat top, sửa xếp tab",
+  "version": "1.4",
+  "notification": "Chơi, chat server khác.",
   "update": [
     {
       "name": "GAME",
