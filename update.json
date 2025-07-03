@@ -1,6 +1,6 @@
 {
-  "version": "1.5",
-  "notification": "Fix giao dịch bot phụ.",
+  "version": "1.6",
+  "notification": "Thêm chat chính, chơi ngày.",
   "update": [
     {
       "name": "GAME",
