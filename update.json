@@ -1,6 +1,6 @@
 {
-  "version": "1.6",
-  "notification": "Thêm chat chính, chơi ngày.",
+  "version": "1.7",
+  "notification": "Sửa chat top.",
   "update": [
     {
       "name": "GAME",
