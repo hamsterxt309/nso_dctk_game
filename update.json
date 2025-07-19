@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "notification": "Thêm chat, chọn số.",
+  "notification": "Thêm chat, chọn số, sửa random.",
   "update": [
     {
       "name": "GAME",
