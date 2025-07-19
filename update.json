@@ -1,6 +1,6 @@
 {
-  "version": "1.9",
-  "notification": "Sửa chat cược.",
+  "version": "2.0",
+  "notification": "Thêm chat, chọn số.",
   "update": [
     {
       "name": "GAME",
